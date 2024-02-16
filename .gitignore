@@ -1,0 +1,5 @@
+# Ignorar archivos .class de Java
+*.class
+
+# Ignorar directorio target de Java
+target/
